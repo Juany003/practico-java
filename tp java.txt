@@ -1,1 +1,5 @@
 Juany Gutierrez
+Que es Git?
+GIT  es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+Para que sirve, y como crees que va a ayudarte a usarlo en programación?
+sirve  para informar y ampliar conocimientos del usuario, yo creo que me va a ayudar a crecer en el desarrollo web ya que cuenta con una amplia informacuion, ya sea tutoriales, libros, etc. y es una comunidad muy positiva

@@ -1,0 +1,4 @@
+¿Que es Java?
+Java es un lenguaje de programacion de proposito general, fuertemente tipado, robusto, basado en clases y objetos. Es un leguaje interpretado, es decir no es el SO el que ejecuta los programas Java sino una maquina virtual conocida como JVM(Java Virtual Machine)
+¿Para que sirve Java?
+Java sirve para crear aplicaciones y procesos en una gran diversidad de dispositivos. Se base en programación orientada a objetivos, permite ejecutar un mismo programa en diversos sistemas operativos y ejecutar el código en sistemas remotos de manera segura.
